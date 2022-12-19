@@ -1,6 +1,7 @@
 {
   "name": "jwk-encrypt",
-  "version": "0.1.1",
+  "version": "0.1.2",
+  "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
@@ -51,5 +52,6 @@
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0"
-  }
+  },
+  "keywords": ["JSON Web Key", "JWK", "Web Crypto Api", "RSA-OAEP", "AES-CTR"]
 }
